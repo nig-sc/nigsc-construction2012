@@ -9,7 +9,7 @@
 写真撮影 : 塩島さん、窪寺さん
 
 <table>
-<tr><td><img src="images/DSCN1639.JPG" width="400" /></td><td>新スパコン構築風景 2011年11月上旬</td></tr>
+<tr><td><img src="images/DSCN1639.JPG" width="400" /></td><td><a href="docs/新スパコン構築風景11月上旬.md">新スパコン構築風景 2011年11月上旬</a></td></tr>
 <tr><td><img src="images/2011-11-17_005.jpg" width="400" /></td><td>新スパコン構築風景 2011年11月下旬</td></tr>
 </table>
 
