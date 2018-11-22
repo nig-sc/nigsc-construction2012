@@ -42,11 +42,11 @@
 <td><a href="vohwz1">新スパコン構築風景 2012年1月中旬 (その2)</a></td>
 </tr>
 <tr>
-<td><a href="9u9piy"><img src="images/dscn2109.jpg" width="400px" /></a></td>
+<td><a href="9u9piy"><img src="images/DSCN2109.JPG" width="400px" /></a></td>
 <td><a href="9u9piy">新スパコン構築風景 2012年1月下旬</a></td>
 </tr>
 <tr>
-<td><a href="bjg516"><img src="images/dscn2110.jpg" width="400px" /></a></td>
+<td><a href="bjg516"><img src="images/DSCN2110.JPG" width="400px" /></a></td>
 <td><a href="bjg516">新スパコン構築風景 2012年2月上旬</a></td>
 </tr>
 </table>
