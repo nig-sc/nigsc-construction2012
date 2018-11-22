@@ -18,15 +18,15 @@
 <td><a href="docs/新スパコン構築風景2011年11月中旬.md">新スパコン構築風景2011年11月中旬</td>
 </tr>
 <tr>
-<td><img src="images/DSCN1471.jpg" width="400px" /></td>
+<td><img src="images/DSCN1471.JPG" width="400px" /></td>
 <td><a href="docs/新スパコン構築風景2011年11月下旬.md">新スパコン構築風景2011年11月下旬</a></td>
 </tr>
 <tr>
-<td><img src="images/DSCN1515.jpg" width="400px" /></td>
+<td><img src="images/DSCN1515.JPG" width="400px" /></td>
 <td><a href="uewrnd">新スパコン構築風景 2011年12月上旬</a></td>
 </tr>
 <tr>
-<td><img src="images/DSCN1551.jpg" width="400px" /></td>
+<td><img src="images/DSCN1551.JPG" width="400px" /></td>
 <td><a href="r6b85d">新スパコン構築風景 2011年12月中旬</a></td>
 </tr>
 <tr>
