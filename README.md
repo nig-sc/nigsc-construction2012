@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td><img src="images/DSCN1515.JPG" width="400px" /></td>
-<td><a href="uewrnd">新スパコン構築風景 2011年12月上旬</a></td>
+<td><a href="docs/新スパコン構築風景2011年12月上旬.md">新スパコン構築風景 2011年12月上旬</a></td>
 </tr>
 <tr>
 <td><img src="images/DSCN1551.JPG" width="400px" /></td>
