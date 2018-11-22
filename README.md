@@ -9,18 +9,24 @@
 写真撮影 : 塩島さん、窪寺さん
 
 <table>
-<tr><td><img src="images/DSCN1639.JPG" width="400" /></td><td><a href="docs/新スパコン構築風景2011年11月上旬.md">新スパコン構築風景 2011年11月上旬</a></td></tr>
-<tr><td><img src="images/2011-11-17_005.jpg" width="400" /></td><td><a href="docs/新スパコン構築風景2011年11月中旬.md">新スパコン構築風景2011年11月中旬</td></tr>
 <tr>
-<td><img src="images/dscn1471.jpg" width="400px" /></td>
+<td><img src="images/DSCN1639.JPG" width="400" /></td>
+<td><a href="docs/新スパコン構築風景2011年11月上旬.md">新スパコン構築風景 2011年11月上旬</a></td>
+</tr>
+<tr>
+<td><img src="images/2011-11-17_005.jpg" width="400" /></td>
+<td><a href="docs/新スパコン構築風景2011年11月中旬.md">新スパコン構築風景2011年11月中旬</td>
+</tr>
+<tr>
+<td><img src="images/DSCN1471.jpg" width="400px" /></td>
 <td><a href="docs/新スパコン構築風景2011年11月下旬.md">新スパコン構築風景2011年11月下旬</a></td>
 </tr>
 <tr>
-<td><a href="uewrnd"><img src="images/dscn1515.jpg" width="400px" /></a></td>
+<td><img src="images/DSCN1515.jpg" width="400px" /></td>
 <td><a href="uewrnd">新スパコン構築風景 2011年12月上旬</a></td>
 </tr>
 <tr>
-<td><a href="r6b85d"><img src="images/dscn1551.jpg" width="400px" /></a></td>
+<td><img src="images/DSCN1551.jpg" width="400px" /></td>
 <td><a href="r6b85d">新スパコン構築風景 2011年12月中旬</a></td>
 </tr>
 <tr>
