@@ -39,7 +39,7 @@
 </tr>
 <tr>
 <td><img src="images/2012-01-15_096.jpg" width="400px" /></a></td>
-<td><a href="docs/新スパコン構築風景2012年1月上旬（その２）.md1">新スパコン構築風景2012年1月上旬（その２）</a></td>
+<td><a href="docs/新スパコン構築風景2012年1月上旬（その２）.md">新スパコン構築風景2012年1月上旬（その２）</a></td>
 </tr>
 <tr>
 <td><img src="images/DSCN2109.JPG" width="400px" /></a></td>
